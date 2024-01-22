@@ -1,2 +1,3 @@
-# repo介绍
-这是用来测试git/github的一个仓库
+
+# main 分支中README.md文件
+>>>>>>> 0025b13fb792d07e060c098a508a344010428a83
